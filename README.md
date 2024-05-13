@@ -14,25 +14,25 @@ This C++ program demonstrates a simple supermarket billing system using Object-O
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/shrinivask007/supermarket-billing.git
+    git clone https://github.com/shrinivask007/SupperMarketBilling_System
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd supermarket-billing
+    cd SupperMarketBilling_System
     ```
 
 3. Compile the source code using a C++ compiler (e.g., g++):
 
     ```bash
-    g++ main.cpp -o supermarket_billing
+    g++ main.cpp -o SupperMarketBilling_System
     ```
 
 4. Run the executable:
 
     ```bash
-    ./supermarket_billing
+    ./SupperMarketBilling_System
     ```
 
 5. Follow the prompts to enter the quantity for each product.
